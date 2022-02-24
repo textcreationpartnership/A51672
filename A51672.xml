@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mysogynus, or, A satyr upon women</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51672</idno>
+            <idno type="STC">Wing M3178</idno>
+            <idno type="STC">ESTC R26852</idno>
+            <idno type="EEBO-CITATION">09566773</idno>
+            <idno type="OCLC">ocm 09566773</idno>
+            <idno type="VID">43642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1336:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mysogynus, or, A satyr upon women</title>
+               </titleStmt>
+               <extent>[2], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Langly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43642:1"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:43642:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <p>
+               <hi>Myſogynus:</hi> OR, A SATYR UPON WOMEN.</p>
+            <figure>
+               <p>IN DOMINO CONFIDO</p>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Langly,</hi> Bookſeller in <hi>Oxford.</hi> MDCLXXXII.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:43642:2"/>
+            <!-- PDF PAGE 99 -->
+            <pb facs="tcp:43642:2"/>
+            <!-- PDF PAGE 99 -->
+            <head>An Advertiſement.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THE Author would let you to underſtand, that he intends not to determine whether or no the ſtronger hath any juſt cauſe of quarrel with the weaker Sex; or if they have, that he deſigns not that this Paper ſhould contain an Indictment: But being one that loves peace and quietneſs, thought good to disburden his (yet unpre<g ref="char:EOLhyphen"/>judiced) mind, that he might ſleep more undiſturbedly. It is far from our drift to make the Married man pick a quarrel with his Wife, or the unmarried out of Love with his Miſtreſs; but to make both the more admire what they find admirable: Such is the uſe the Author himſelf makes of it, and ſuch, he hopes, you will too.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:43642:3"/>
+            <!-- PDF PAGE 100 -->
+            <pb n="1" facs="tcp:43642:3"/>
+            <!-- PDF PAGE 100 -->
+            <head>MYSOGYNUS: OR, A Satyr upon Women.</head>
+            <lg>
+               <lg>
+                  <l>LAte come from <hi>Derby</hi>'s Peak, where Wo<g ref="char:EOLhyphen"/>men do</l>
+                  <l>Beat their poor Cuckold Husbands black and blue;</l>
+                  <l>And, which is worſe, make nothing of it too:</l>
+               </lg>
+               <l>I'm mad to ſee the poor men thus abus'd,</l>
+               <l>And would by all means have them better us'd.</l>
+            </lg>
+            <lg>
+               <l>And now were I outlandiſh, then I'd rant</l>
+               <l>With liberty of Tongue, which now I want;</l>
+               <l>I'd force a ſmart Burleſque on thoſe ſlie Creatures</l>
+               <l>That thus Tongue-tyed us with their ſlier features.</l>
+               <l>Poor Country-men! not only chous'd of their right hand,</l>
+               <l>(They can't the priviledge of the Wall command.)</l>
+               <l>Not only cow'd, but to laugh at them too;</l>
+               <l>They've gull'd them of their wordst' expreſs their woe:</l>
+               <l>
+                  <pb n="2" facs="tcp:43642:4"/>
+                  <!-- PDF PAGE 101 -->
+What ſhall I do for <hi>Engliſh</hi> words t' employ</l>
+               <l>On this dire theme, which Foreigners enjoy:</l>
+               <l>Foreigners, that know how to uſe command,</l>
+               <l>Like <hi>Caeſar,</hi> when they've got the upper hand.</l>
+               <l>But we are mute, or have our language loſt,</l>
+               <l>Which theſe Decoys have to themſelves ingroſt.</l>
+               <l>You'd think, they'll ſcold in ſuch a laſting ſtile,</l>
+               <l>That one poor Tongue could not ſerve all the while.</l>
+               <l>Till then, I've made my Satyr quite compleat,</l>
+               <l>I'll ſhake the Letters of the Alphabet:</l>
+               <l>But I do want for what I would contrive,</l>
+               <l>Unleſs you will allow me twenty five;</l>
+               <l>But our School-Dames allow but four, and ſay,</l>
+               <l>That after Z there's no <hi>Et caetera.</hi>
+               </l>
+               <l>Conſcious that if <hi>Et caetera</hi> ſhould be known,</l>
+               <l>We ſhould prove ſcolds in telling them their own.</l>
+               <l>How haughtily upon the <hi>Engliſh-man</hi> they tread,</l>
+               <l>Stark drunk with Pride, they ride a free Horſe dead.</l>
+               <l>We'll ne'r endure't, come ſubject Hearts,</l>
+               <l>I'll paraphraſe upon a Womans parts;</l>
+               <l>And when I cannot think what bad enough to ſay,</l>
+               <l>I'll brand her name with black <hi>Et caetera.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Whate're was left unfit in the Creation</l>
+               <l>To make a Toad, after its ugly faſhion,</l>
+               <l>Of ſcrapings from unfiniſhed Creatures had,</l>
+               <l>Sure was the body of a Woman made:</l>
+               <l>Yet there's ſome finer Atoms daub'd upon,</l>
+               <l>Which makes her ſeem ſo beauteous to look on.</l>
+               <l>
+                  <pb n="3" facs="tcp:43642:4"/>
+                  <!-- PDF PAGE 101 -->
+Nor better is a Womans end, nor can,</l>
+               <l>Born only to Night-mare the Soul of Man.</l>
+               <l>Nor is he only plagued by her birth,</l>
+               <l>She is an Univerſal Curſe unto the Earth.</l>
+               <l>Some ſay, the ground with barrenneſs is curſt,</l>
+               <l>Where in the Morn ſhe ſtrains her body firſt.</l>
+               <l>Surely ſhe was not th' end of the Creation,</l>
+               <l>But made by th' by, huddled at any faſhion.</l>
+               <l>She's ſome imperfect thing, it needs muſt follow,</l>
+               <l>She ſounds ſo loud, impertinently hollow:</l>
+               <l>So ſhrill and empty, that you'd ſwear i'faith</l>
+               <l>She'd no more Soul in her than a Cannon hath;</l>
+               <l>Unleſs inhabited by incarnate Devils,</l>
+               <l>Sent to diſturb mens peace with their loud evils.</l>
+               <l>You'd think that ſhe was made, ſo fair her face,</l>
+               <l>Only for to officiate the Devils place:</l>
+               <l>Why are we men not fearful at her ſight,</l>
+               <l>As at the Devils walking in the night:</l>
+               <l>The one as hurtful as the other, nay</l>
+               <l>She is more Devil of the two, they ſay.</l>
+            </lg>
+            <lg>
+               <l>In the beginning of the World, ſays one,</l>
+               <l>When man did abſolutely rule alone,</l>
+               <l>When there was no ſuch thing as Woman known,</l>
+               <l>To be mans partner in his Regal Throne,</l>
+               <l>When Man was gotten not with Copulation,</l>
+               <l>But Men ſpawn'd Men, after a brisker faſhion;</l>
+               <l>A more ingenious way of Propagation:</l>
+               <l>
+                  <pb n="4" facs="tcp:43642:5"/>
+                  <!-- PDF PAGE 102 -->
+When Men were bent, whatever ſtop was given,</l>
+               <l>And <hi>nolens volens,</hi> had gone all to Heaven;</l>
+               <l>Then threw the Devil theſe ſame Golden Balls</l>
+               <l>To ſtop his full career with gentle falls:</l>
+               <l>Then firſt was man bewitch'd; then firſt</l>
+               <l>Did man make Reaſon truckle to his Luſt;</l>
+               <l>Then firſt was Man bed-ridden with theſe Devils,</l>
+               <l>Certainly of all, this ſure the worſt of Evils.</l>
+               <l>Infernal Imps, I thought, but now and then,</l>
+               <l>Were wont to haunt the ſeats of living men;</l>
+               <l>But now theſe Spirits incarnate, are ſo bold</l>
+               <l>They are familiar, and will have, and hold</l>
+               <l>Of whatſoever's his, and will controul,</l>
+               <l>Where e're he goes or comes, his haunted Soul.</l>
+               <l>Woman! What ſhall I ſay? Infernal Creature:</l>
+               <l>Thou'ſt ſo degenerated mans ſoft Nature,</l>
+               <l>That he has quite forgot his Primitive ſtate,</l>
+               <l>And thinks it natural to copulate</l>
+               <l>With an Hell-bred Familiar, (ſuch his fate)</l>
+               <l>And counts his Off-ſpring all Legitimate.</l>
+            </lg>
+            <lg>
+               <l>Think with the Atheiſt, that there is no God,</l>
+               <l>Nor can this cunning Creature be his Rod,</l>
+               <l>Sent down at ſecond thoughts to plague poor men,</l>
+               <l>I'll whip her fame as bad, I'll warrant then;</l>
+               <l>I will invent ſome wicked thing upon her,</l>
+               <l>That you would think impoſſible to ſham on her;</l>
+               <l>To make her what ſhe is, one way or t'other,</l>
+               <l>I'll make her ragged Atoms t' hang together:</l>
+               <l>
+                  <pb n="5" facs="tcp:43642:5"/>
+                  <!-- PDF PAGE 102 -->
+Then let us ſtrive to make a tall, a proper,</l>
+               <l>A fair, deceitful, that is, a Woman of her;</l>
+               <l>Who can't a neceſſary good commence,</l>
+               <l>Becauſe ſhe is a being came by chance;</l>
+               <l>So may Men pray that ſome Chance would ſurround her,</l>
+               <l>And take her there, where Chance, her Maker, found her.</l>
+            </lg>
+            <lg>
+               <l>And now within ſo boundleſs, huge a place,</l>
+               <l>Whoſe vaſt immenſity admits no ſpace,</l>
+               <l>To be call'd up or down, (gone to be loſt)</l>
+               <l>Thouſands of Atoms eternally are toſt;</l>
+               <l>So that I do deſpair amidſt them all,</l>
+               <l>Of finding out Womans original.</l>
+               <l>Thus ſpying Nature labouring, I find,</l>
+               <l>The large frame begun within my larger mind,</l>
+               <l>I ſee things coming gradually to perfection,</l>
+               <l>At length compleated by coacervation:</l>
+               <l>Nor had this Joynted Baby of my mind,</l>
+               <l>Scarce all its ſhuffled parts combin'd;</l>
+               <l>But ſtraight ſome unforc'd Particles we ſee,</l>
+               <l>That will with no part of the frame agree,</l>
+               <l>Which hookt together by themſelves, became</l>
+               <l>The imperfect thing that Men do <hi>Woman</hi> name;</l>
+               <l>Hence 'tis, we in her compoſition find</l>
+               <l>Such a ſtrange medley made of every kind;</l>
+               <l>From Man a ſnip of Rationality,</l>
+               <l>The reſt from Beaſts, the Goat, and Chatter-Pye.</l>
+            </lg>
+            <lg>
+               <l>Then whate're Nature thought unfit to be</l>
+               <l>Mixt with the ſubſtance of the Creature, ſhe</l>
+               <l>
+                  <pb n="6" facs="tcp:43642:6"/>
+                  <!-- PDF PAGE 103 -->
+Deſign'd to be th' Maſter-piece of her Art,</l>
+               <l>Doth all lie centred in a Womans Heart;</l>
+               <l>All the crookt Atoms, and the rough, that joyn'd,</l>
+               <l>Raiſe Malice, Fear, and Paſſions in the mind;</l>
+               <l>All thoſe from whoſe croſs diſpoſition riſe</l>
+               <l>Envy and Hate, Deſpair and Jealouſies,</l>
+               <l>Nature rejected, as unfit to be</l>
+               <l>Ingredients of Man, the Creature ſhe</l>
+               <l>Intended for the Worlds Epitome:</l>
+               <l>Then whatſoever's left, that can produce</l>
+               <l>A Helliſh mould, fit for the Devils uſe;</l>
+               <l>Whatever's Ill, Depraved, or what not</l>
+               <l>That is ſo thought, falls not to Womans lot:</l>
+               <l>Evil is ſo ingrafted in her parts, you'd ſwear</l>
+               <l>She'd not one dram of good to boaſt of there;</l>
+               <l>Her wicked qualities, which we think occult,</l>
+               <l>From th' diſpoſition of her parts reſult:</l>
+               <l>She'll lie, and cog, and flatter with the beſt,</l>
+               <l>Though Nature otherwiſe teaches Humane Breaſt;</l>
+               <l>Woman is ſo unnatural a Beaſt.</l>
+               <l>She is 'gainſt Nature ſo entire a Sinner,</l>
+               <l>It is impoſſible for goodneſs to be in her;</l>
+               <l>All the depravity that is, controul,</l>
+               <l>And have predominancy in a Womans Soul,</l>
+               <l>Kneaded, and woven in her parts within,</l>
+               <l>And are inſeparable as her Skin.</l>
+            </lg>
+            <lg>
+               <l>When careful Nature had the World quite ended,</l>
+               <l>Sound Wind and Limb, then ſhe had it befriended,</l>
+               <l>
+                  <pb n="7" facs="tcp:43642:6"/>
+                  <!-- PDF PAGE 103 -->
+If ſhe had quite expell'd this rotten part,</l>
+               <l>Which ſo corrupts all other to the Heart;</l>
+               <l>Then the ſtraight-limb'd World might chance perhaps</l>
+               <l>To have liv'd ſtrong, and free from all her Claps;</l>
+               <l>Nay, t'would have been eternal, for I'm ſure,</l>
+               <l>What hath no cauſe of corruption, will for e're endure:</l>
+               <l>Such would the World be, had not Woman been;</l>
+               <l>For all Corruption, Putrefaction, Sin,</l>
+               <l>And what is worſe, if worſe there be, all came</l>
+               <l>From Woman, and Woman as their Parent, claim;</l>
+               <l>Like <hi>Prometheus</hi> Vulture, ſhe feeds on Mans poor Breaſt;</l>
+               <l>Like Braſs, ſhe cankers ſome, and eats the reſt.</l>
+               <l>She'll kill, as does a Baſilisk, or worſe if't can,</l>
+               <l>Inſenſibly ſhe blinds, and burns the Man.</l>
+               <l>Her outſide's fair and pleaſing, when the while</l>
+               <l>She kills as craftily as the Crocodile;</l>
+               <l>Uſurps his right, raigns o're her fellow ſlaves,</l>
+               <l>Nor won't admit her Lord to go her halves;</l>
+               <l>She alone was the cauſe, when ſhe uſurp't the Throne,</l>
+               <l>Nor any other was't, that Hell it ſelf was known.</l>
+               <l>Whate're's irregular done, 'tis ſhe doth do't,</l>
+               <l>Univerfal Miſchief is her Attribute.</l>
+               <l>Now, Reader, if thou haſt what's worſe to ſay,</l>
+               <l>Pray ſay't, for that is hers, <hi>Et caetera.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
